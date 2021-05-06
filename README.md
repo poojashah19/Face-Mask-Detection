@@ -24,6 +24,6 @@ Export inference_graph
 
 Test Model
 
-I achieved loss of 0.35 and accuracy of with mask
+I achieved loss of 0.35 and good accuracy on both the class images.
 
 Credits: https://gilberttanner.com/blog/creating-your-own-objectdetector
